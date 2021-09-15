@@ -1,4 +1,11 @@
 #logo {
-    width: 150%;
-    length: 110px;
+    width: 100%;
+    length: 150px;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    text-align: center;
+    color: white;
 }
