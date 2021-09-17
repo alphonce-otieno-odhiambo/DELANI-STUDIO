@@ -45,6 +45,15 @@
 }
 
 .size {
-    width: 30%;
-    height: 30%;
+    width: 40%;
+    height: 40;
+}
+
+.form4 {
+    position: absolute;
+    top: 350%;
+    text-align: center;
+    float: center;
+    background-size: 150cm;
+    backface-visibility: hidden;
 }
