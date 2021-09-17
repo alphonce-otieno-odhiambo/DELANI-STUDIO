@@ -26,3 +26,20 @@
     top: 160%;
     color: aliceblue;
 }
+
+.heading1 {
+    display: none;
+}
+
+.heading2 {
+    display: none;
+}
+
+.heading3 {
+    display: none;
+}
+
+.image-fluid {
+    width: 85;
+    height: 85%;
+}
